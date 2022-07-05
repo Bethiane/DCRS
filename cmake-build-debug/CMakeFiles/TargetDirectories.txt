@@ -1,0 +1,3 @@
+/home/mcdonald/Desktop/Exam/DCRS/cmake-build-debug/CMakeFiles/DCRS.dir
+/home/mcdonald/Desktop/Exam/DCRS/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mcdonald/Desktop/Exam/DCRS/cmake-build-debug/CMakeFiles/rebuild_cache.dir

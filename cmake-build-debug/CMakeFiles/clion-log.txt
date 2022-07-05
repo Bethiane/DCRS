@@ -1,0 +1,4 @@
+/home/mcdonald/Documents/CLion-2022.1.3/clion-2022.1.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/mcdonald/Documents/CLion-2022.1.3/clion-2022.1.3/bin/ninja/linux/ninja -G Ninja -S /home/mcdonald/Desktop/Exam/DCRS -B /home/mcdonald/Desktop/Exam/DCRS/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/mcdonald/Desktop/Exam/DCRS/cmake-build-debug
